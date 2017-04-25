@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="base" />
         <module name="dubbo" />
+        <module name="dubbo-interface" />
         <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="base" target="1.7" />
       <module name="dubbo" target="1.7" />
+      <module name="dubbo-interface" target="1.7" />
       <module name="project" target="1.7" />
       <module name="test" target="1.7" />
     </bytecodeTargetLevel>
