@@ -17,10 +17,10 @@
     </properties>
 
     <dependencies>
-        <!-- dubbo interface dependency -->
+        <!-- dubbo interface -->
         <dependency>
             <groupId>cn.zhanyongzhi.template</groupId>
-            <artifactId>dubbo-interface</artifactId>
+            <artifactId>dubbointerface</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
